@@ -1,0 +1,9 @@
+{
+    "model_type": "gpt2",
+    "n_layer": 12,
+    "n_head": 12,
+    "n_embd": 768,
+    "block_size": 128,
+    "vocab_size": 50304,
+    "bias": false
+}
